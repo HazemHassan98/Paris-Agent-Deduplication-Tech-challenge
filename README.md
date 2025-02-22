@@ -1,6 +1,6 @@
 # 🏠 Paris Agent Deduplication Challenge  
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?logo=mongodb)  
 
